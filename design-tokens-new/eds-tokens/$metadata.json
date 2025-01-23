@@ -1,0 +1,14 @@
+{
+  "tokenSetOrder": [
+    "core/global",
+    "core/english",
+    "core/ielts",
+    "semantic/english",
+    "semantic/colours/english/Light",
+    "semantic/colours/english/Dark",
+    "semantic/colours/ielts/Light",
+    "semantic/colours/ielts/Dark",
+    "component/Light",
+    "component/Dark"
+  ]
+}

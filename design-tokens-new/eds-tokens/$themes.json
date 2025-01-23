@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ef7bb7ca38c55fd8cb848d61dc5b83846a1f7ecc",
+    "name": "english",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core/global": "enabled",
+      "core/english": "enabled",
+      "semantic/english": "enabled",
+      "semantic/colours/english/Light": "source",
+      "component/Light": "source"
+    },
+    "group": "Brand",
+    "$figmaVariableReferences": {}
+  },
+  {
+    "id": "8b7b066210922db955cce435c80b46a1703fa5e8",
+    "name": "Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core/global": "source",
+      "core/english": "source",
+      "semantic/english": "source",
+      "semantic/colours/english/Light": "enabled",
+      "component/Light": "enabled"
+    },
+    "group": "Theme",
+    "$figmaVariableReferences": {}
+  },
+  {
+    "id": "7ed99139a0e8b3c985f86978e51dd474196e83fc",
+    "name": "Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core/global": "source",
+      "core/english": "source",
+      "semantic/english": "source",
+      "semantic/colours/english/Dark": "enabled",
+      "component/Dark": "enabled"
+    },
+    "group": "Theme",
+    "$figmaVariableReferences": {}
+  },
+  {
+    "id": "075c94ff542ed15f9cfed60b525b79ca4fbd1ff5",
+    "name": "ielts",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core/global": "source",
+      "core/ielts": "enabled",
+      "semantic/english": "source",
+      "component/Light": "enabled",
+      "semantic/colours/english/Light": "source"
+    },
+    "group": "Brand"
+  }
+]

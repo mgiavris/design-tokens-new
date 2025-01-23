@@ -1,0 +1,192 @@
+{
+  "core": {
+    "global": {
+      "scale": {
+        "5": {
+          "value": "2px",
+          "type": "dimension"
+        },
+        "10": {
+          "value": "4px",
+          "type": "dimension"
+        },
+        "20": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "30": {
+          "value": "12px",
+          "type": "dimension"
+        },
+        "35": {
+          "value": "14px",
+          "type": "dimension"
+        },
+        "40": {
+          "value": "16px",
+          "type": "dimension"
+        },
+        "50": {
+          "value": "20px",
+          "type": "dimension"
+        },
+        "60": {
+          "value": "24px",
+          "type": "dimension"
+        },
+        "70": {
+          "value": "28px",
+          "type": "dimension"
+        },
+        "80": {
+          "value": "32px",
+          "type": "dimension"
+        },
+        "100": {
+          "value": "40px",
+          "type": "dimension"
+        },
+        "120": {
+          "value": "48px",
+          "type": "dimension"
+        },
+        "160": {
+          "value": "64px",
+          "type": "dimension"
+        },
+        "180": {
+          "value": "72px",
+          "type": "dimension"
+        },
+        "200": {
+          "value": "80px",
+          "type": "dimension"
+        },
+        "240": {
+          "value": "96px",
+          "type": "dimension"
+        },
+        "280": {
+          "value": "112px",
+          "type": "dimension"
+        },
+        "320": {
+          "value": "128px",
+          "type": "dimension"
+        },
+        "400": {
+          "value": "160px",
+          "type": "dimension"
+        },
+        "480": {
+          "value": "192px",
+          "type": "dimension"
+        },
+        "560": {
+          "value": "224px",
+          "type": "dimension"
+        },
+        "640": {
+          "value": "256px",
+          "type": "dimension"
+        },
+        "none": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "none": {
+          "value": "0px",
+          "type": "borderRadius"
+        },
+        "2xl": {
+          "value": "40px",
+          "type": "borderRadius"
+        },
+        "lg": {
+          "value": "16px",
+          "type": "borderRadius"
+        },
+        "rounded": {
+          "value": "100px",
+          "type": "borderRadius"
+        },
+        "xl": {
+          "value": "24px",
+          "type": "borderRadius"
+        },
+        "xs": {
+          "value": "4px",
+          "type": "borderRadius"
+        },
+        "md": {
+          "value": "12px",
+          "type": "borderRadius"
+        },
+        "sm": {
+          "value": "8px",
+          "type": "borderRadius"
+        }
+      },
+      "borderWidth": {
+        "none": {
+          "value": "0px",
+          "type": "borderWidth"
+        },
+        "sm": {
+          "value": "1px",
+          "type": "borderWidth"
+        },
+        "md": {
+          "value": "2px",
+          "type": "borderWidth"
+        },
+        "lg": {
+          "value": "3px",
+          "type": "borderWidth"
+        },
+        "xl": {
+          "value": "4px",
+          "type": "borderWidth"
+        }
+      },
+      "type": {
+        "font-weight": {
+          "extra-light": {
+            "value": "100",
+            "type": "fontWeights"
+          },
+          "bold": {
+            "value": "700",
+            "type": "fontWeights"
+          },
+          "extra-bold": {
+            "value": "800",
+            "type": "fontWeights"
+          },
+          "regular": {
+            "value": "400",
+            "type": "fontWeights"
+          },
+          "light": {
+            "value": "300",
+            "type": "fontWeights"
+          },
+          "semibold": {
+            "value": "600",
+            "type": "fontWeights"
+          },
+          "medium": {
+            "value": "500",
+            "type": "fontWeights"
+          },
+          "thin": {
+            "value": "200",
+            "type": "fontWeights"
+          }
+        }
+      }
+    }
+  }
+}
