@@ -132,16 +132,16 @@
         }
       },
       "surface": {
+        "default": {
+          "value": "{core.colour.white}",
+          "type": "color"
+        },
         "page": {
           "value": "{core.colour.white}",
           "type": "color"
         },
         "modal": {
           "value": "{core.colour.grey.30}",
-          "type": "color"
-        },
-        "default": {
-          "value": "{core.colour.white}",
           "type": "color"
         },
         "overlay": {

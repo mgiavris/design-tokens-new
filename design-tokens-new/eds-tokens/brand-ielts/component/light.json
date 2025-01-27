@@ -31,7 +31,7 @@
           },
           "foreground": {
             "default": {
-              "value": "{core.colour.cambridge-blue.70}",
+              "value": "{semantic.colour.text.default-inverted}",
               "type": "color"
             },
             "hover": {
@@ -55,7 +55,7 @@
               "type": "color"
             },
             "loading-icon": {
-              "value": "{core.colour.cambridge-blue.60}",
+              "value": "{semantic.colour.primary.default}",
               "type": "color"
             }
           }
@@ -89,19 +89,19 @@
           },
           "foreground": {
             "default": {
-              "value": "{core.colour.cambridge-blue.50}",
+              "value": "{semantic.colour.primary.default}",
               "type": "color"
             },
             "hover": {
-              "value": "{core.colour.cambridge-blue.60}",
+              "value": "{semantic.colour.primary.hover}",
               "type": "color"
             },
             "pressed": {
-              "value": "{core.colour.cambridge-blue.70}",
+              "value": "{semantic.colour.primary.pressed}",
               "type": "color"
             },
             "focus": {
-              "value": "{core.colour.cambridge-blue.60}",
+              "value": "{semantic.colour.primary.focus}",
               "type": "color"
             },
             "disabled": {
@@ -113,33 +113,33 @@
               "type": "color"
             },
             "loading-icon": {
-              "value": "{core.colour.cambridge-blue.50}",
+              "value": "{semantic.colour.primary.default}",
               "type": "color"
             }
           },
           "border": {
             "default": {
-              "value": "{core.colour.cambridge-blue.50}",
+              "value": "{semantic.colour.primary.default}",
               "type": "color"
             },
             "hover": {
-              "value": "{core.colour.cambridge-blue.60}",
+              "value": "{semantic.colour.primary.hover}",
               "type": "color"
             },
             "pressed": {
-              "value": "{core.colour.cambridge-blue.70}",
+              "value": "{semantic.colour.primary.pressed}",
               "type": "color"
             },
             "focus": {
-              "value": "{core.colour.cambridge-blue.60}",
+              "value": "{semantic.colour.primary.focus}",
               "type": "color"
             },
             "disabled": {
-              "value": "{core.colour.grey.10}",
+              "value": "{semantic.colour.neutral.disabled}",
               "type": "color"
             },
             "loading": {
-              "value": "{core.colour.grey.10}",
+              "value": "{semantic.colour.neutral.disabled}",
               "type": "color"
             }
           }
@@ -173,19 +173,19 @@
           },
           "foreground": {
             "default": {
-              "value": "{core.colour.cambridge-blue.50}",
+              "value": "{semantic.colour.primary.default}",
               "type": "color"
             },
             "hover": {
-              "value": "{core.colour.cambridge-blue.60}",
+              "value": "{semantic.colour.primary.hover}",
               "type": "color"
             },
             "pressed": {
-              "value": "{core.colour.cambridge-blue.70}",
+              "value": "{semantic.colour.primary.pressed}",
               "type": "color"
             },
             "focus": {
-              "value": "{core.colour.cambridge-blue.60}",
+              "value": "{semantic.colour.primary.focus}",
               "type": "color"
             },
             "disabled": {
@@ -197,7 +197,7 @@
               "type": "color"
             },
             "loading-icon": {
-              "value": "{core.colour.cambridge-blue.50}",
+              "value": "{semantic.colour.primary.default}",
               "type": "color"
             }
           }
@@ -278,7 +278,7 @@
         }
       },
       "border-radius": {
-        "value": "{semantic.border-radius.sm}",
+        "value": "{semantic.border-radius.none}",
         "type": "borderRadius"
       }
     },
@@ -407,6 +407,22 @@
         "disabled": {
           "value": "{semantic.colour.neutral.disabled}",
           "type": "color"
+        }
+      }
+    },
+    "tab": {
+      "border-width": {
+        "default": {
+          "value": "{semantic.border-width.sm}",
+          "type": "borderWidth"
+        },
+        "selected": {
+          "value": "{semantic.border-width.lg}",
+          "type": "borderWidth"
+        },
+        "disabled": {
+          "value": "{semantic.border-width.sm}",
+          "type": "borderWidth"
         }
       }
     }

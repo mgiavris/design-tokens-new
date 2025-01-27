@@ -1,14 +1,17 @@
 {
   "tokenSetOrder": [
-    "core/global",
-    "core/english",
-    "core/ielts",
-    "semantic/english",
-    "semantic/colours/english/Light",
-    "semantic/colours/english/Dark",
-    "semantic/colours/ielts/Light",
-    "semantic/colours/ielts/Dark",
-    "component/Light",
-    "component/Dark"
+    "global",
+    "brand-english/core",
+    "brand-english/semantic/tokens",
+    "brand-english/semantic/colours/light",
+    "brand-english/semantic/colours/dark",
+    "brand-english/component/light",
+    "brand-english/component/dark",
+    "brand-ielts/core",
+    "brand-ielts/semantic/tokens",
+    "brand-ielts/semantic/colours/light",
+    "brand-ielts/semantic/colours/dark",
+    "brand-ielts/component/light",
+    "brand-ielts/component/dark"
   ]
 }

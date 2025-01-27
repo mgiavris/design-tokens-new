@@ -1,57 +1,58 @@
 [
   {
     "id": "ef7bb7ca38c55fd8cb848d61dc5b83846a1f7ecc",
-    "name": "english",
+    "name": "english-light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core/global": "enabled",
-      "core/english": "enabled",
-      "semantic/english": "enabled",
-      "semantic/colours/english/Light": "source",
-      "component/Light": "source"
+      "brand-english/core": "enabled",
+      "brand-english/semantic/tokens": "enabled",
+      "global": "source",
+      "brand-english/semantic/colours/light": "enabled",
+      "brand-english/component/light": "enabled"
     },
-    "group": "Brand",
-    "$figmaVariableReferences": {}
-  },
-  {
-    "id": "8b7b066210922db955cce435c80b46a1703fa5e8",
-    "name": "Light",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "core/global": "source",
-      "core/english": "source",
-      "semantic/english": "source",
-      "semantic/colours/english/Light": "enabled",
-      "component/Light": "enabled"
-    },
-    "group": "Theme",
-    "$figmaVariableReferences": {}
-  },
-  {
-    "id": "7ed99139a0e8b3c985f86978e51dd474196e83fc",
-    "name": "Dark",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "core/global": "source",
-      "core/english": "source",
-      "semantic/english": "source",
-      "semantic/colours/english/Dark": "enabled",
-      "component/Dark": "enabled"
-    },
-    "group": "Theme",
-    "$figmaVariableReferences": {}
+    "$figmaVariableReferences": {},
+    "group": "theme"
   },
   {
     "id": "075c94ff542ed15f9cfed60b525b79ca4fbd1ff5",
-    "name": "ielts",
+    "name": "english-dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core/global": "source",
-      "core/ielts": "enabled",
-      "semantic/english": "source",
-      "component/Light": "enabled",
-      "semantic/colours/english/Light": "source"
+      "global": "source",
+      "brand-english/core": "enabled",
+      "brand-english/semantic/tokens": "enabled",
+      "brand-english/semantic/colours/dark": "enabled",
+      "brand-english/component/dark": "enabled"
     },
-    "group": "Brand"
+    "$figmaVariableReferences": {},
+    "group": "theme"
+  },
+  {
+    "id": "0c32655723d2a33b6fb362426ae957b380191ce9",
+    "name": "ielts-light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global": "source",
+      "brand-ielts/core": "enabled",
+      "brand-ielts/semantic/tokens": "enabled",
+      "brand-ielts/semantic/colours/light": "enabled",
+      "brand-ielts/component/light": "enabled"
+    },
+    "group": "theme",
+    "$figmaVariableReferences": {}
+  },
+  {
+    "id": "56e77bbb2a7d1707774fb856cf52643565e107f4",
+    "name": "ielts-dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global": "source",
+      "brand-ielts/core": "enabled",
+      "brand-ielts/semantic/tokens": "enabled",
+      "brand-ielts/semantic/colours/dark": "enabled",
+      "brand-ielts/component/dark": "enabled"
+    },
+    "group": "theme",
+    "$figmaVariableReferences": {}
   }
 ]

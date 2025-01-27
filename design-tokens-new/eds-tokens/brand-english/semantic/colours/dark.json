@@ -89,7 +89,7 @@
           "type": "color"
         },
         "action": {
-          "value": "{core.colour.cambridge-blue.50}",
+          "value": "{core.colour.cambridge-blue.40}",
           "type": "color"
         },
         "placeholder": {
@@ -127,7 +127,7 @@
           "type": "color"
         },
         "action": {
-          "value": "{core.colour.cambridge-blue.50}",
+          "value": "{core.colour.cambridge-blue.40}",
           "type": "color"
         }
       },
@@ -192,9 +192,5 @@
         }
       }
     }
-  },
-  "mode": {
-    "value": "dark",
-    "type": "text"
   }
 }
