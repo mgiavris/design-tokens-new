@@ -384,6 +384,10 @@
             "type": "color"
           }
         }
+      },
+      "border-radius": {
+        "value": "{semantic.border-radius.sm}",
+        "type": "borderRadius"
       }
     },
     "link": {
@@ -424,6 +428,12 @@
           "value": "{semantic.border-width.sm}",
           "type": "borderWidth"
         }
+      }
+    },
+    "modal": {
+      "border-radius": {
+        "value": "{semantic.border-radius.none}",
+        "type": "borderRadius"
       }
     }
   }

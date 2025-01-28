@@ -341,20 +341,20 @@
             "value": "{semantic.colour.surface.hover}",
             "type": "color"
           },
-          "disabled": {
-            "value": "{semantic.colour.surface.disabled}",
+          "active": {
+            "value": "{semantic.colour.surface.default}",
             "type": "color"
           },
           "error": {
             "value": "{semantic.colour.surface.default}",
             "type": "color"
           },
-          "active": {
+          "success": {
             "value": "{semantic.colour.surface.default}",
             "type": "color"
           },
-          "success": {
-            "value": "{semantic.colour.surface.default}",
+          "disabled": {
+            "value": "{semantic.colour.surface.disabled}",
             "type": "color"
           }
         },
@@ -384,6 +384,14 @@
             "type": "color"
           }
         }
+      },
+      "border-radius": {
+        "value": "{semantic.border-radius.sm}",
+        "type": "borderRadius"
+      },
+      "border-width": {
+        "value": "{semantic.border-width.sm}",
+        "type": "borderWidth"
       }
     },
     "link": {
@@ -424,6 +432,12 @@
           "value": "{semantic.border-width.sm}",
           "type": "borderWidth"
         }
+      }
+    },
+    "modal": {
+      "border-radius": {
+        "value": "{semantic.border-radius.md}",
+        "type": "borderRadius"
       }
     }
   }

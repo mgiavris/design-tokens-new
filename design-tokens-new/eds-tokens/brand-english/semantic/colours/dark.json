@@ -93,7 +93,7 @@
           "type": "color"
         },
         "placeholder": {
-          "value": "{core.colour.grey.60}",
+          "value": "{core.colour.grey.50}",
           "type": "color"
         }
       },
@@ -132,16 +132,16 @@
         }
       },
       "surface": {
+        "default": {
+          "value": "{core.colour.black}",
+          "type": "color"
+        },
         "page": {
           "value": "{core.colour.black}",
           "type": "color"
         },
         "modal": {
           "value": "{core.colour.grey.60}",
-          "type": "color"
-        },
-        "default": {
-          "value": "{core.colour.black}",
           "type": "color"
         },
         "overlay": {
