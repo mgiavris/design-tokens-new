@@ -388,6 +388,10 @@
       "border-radius": {
         "value": "{semantic.border-radius.sm}",
         "type": "borderRadius"
+      },
+      "border-width": {
+        "value": "{semantic.border-width.sm}",
+        "type": "borderWidth"
       }
     },
     "link": {
